@@ -16,3 +16,6 @@ glyphicons-regular.ttf
 glyphicons-regular.woff
 
 glyphicons-regular.woff2
+
+
+I have an answer I posted on Stackoverflow that you can use as to how to do this manualy: https://stackoverflow.com/questions/20344363/add-all-glyphicons-to-bootstrap-3/44346819#44346819
